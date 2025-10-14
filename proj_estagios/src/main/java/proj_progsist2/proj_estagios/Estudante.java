@@ -15,3 +15,4 @@ public class Estudante {
         this.curso = curso;
         this.matricula = matricula;
     }
+}
